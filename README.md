@@ -1,18 +1,20 @@
 # 💫 About Me:
-🚀 Currently pursuing my undergraduate degree at IIT Mandi.
+- 🚀 Undergraduate at IIT Mandi.
 
-👨‍💻 I'm a passionate developer eager to explore the world of programming, particularly in the mobile development space. My skills lie in Flutter development, and I'm actively expanding my knowledge towards native development using Kotlin.
+- 👨‍💻 I'm a passionate developer eager to explore the world of programming, particularly in the mobile development space. My skills lie in Flutter development, and I'm actively expanding my knowledge towards native development using Kotlin.
 
-🖥️ My technical foundation includes proficiency in Python and a strong focus on mastering data structures and algorithms with C++.
+- 🖥️ My technical foundation includes proficiency in Python and a strong focus on mastering data structures and algorithms with C++.
 
-💻 I've also gained valuable experience working with GUI frameworks like Tkinter and Kivy, building projects that showcase my abilities.
+- 💻 I've also gained valuable experience working with GUI frameworks like Tkinter and Kivy, building projects that showcase my abilities.
 
-🌟 I'm a highly motivated individual always seeking new challenges and learning opportunities. 
-
-🚴‍♂️ In my free time, I enjoy cycling and traveling, seeking inspiration from the world around me. 
+- 🚴‍♂️ In my free time, I enjoy cycling and traveling, seeking inspiration from the world around me. 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.discordapp.com/users/1059372096905564181) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kush.gaurav12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-kushwaha-330a39251) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gaurav.family04) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GauravKush1225) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gauravkushwaha7207) 
+
+---
+[![](https://visitcount.itsvg.in/api?id=Gaurav-Kushwaha-1225&icon=6&color=13)](https://visitcount.itsvg.in)
+
 
 # 💻 Tech Stack:
 - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
@@ -30,8 +32,9 @@
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gaurav-Kushwaha-1225&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Kushwaha-1225&theme=material-palenight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Gaurav-Kushwaha-1225&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Kushwaha-1225&theme=material-palenight&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kushwaha-1225&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
@@ -46,8 +49,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gaurav-Kushwaha-1225&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 -->
-
----
-[![](https://visitcount.itsvg.in/api?id=Gaurav-Kushwaha-1225&icon=6&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
