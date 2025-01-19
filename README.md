@@ -1,11 +1,7 @@
 # 💫 About Me:
-- 🚀 Undergraduate at IIT Mandi.
+- 🚀 Undergraduate Student at IIT Mandi.
 
-- 👨‍💻 I'm a passionate developer eager to explore the world of programming, particularly in the mobile development space. My skills lie in Flutter development, and I'm actively expanding my knowledge towards native development using Kotlin.
-
-- 🖥️ My technical foundation includes proficiency in Python and a strong focus on mastering data structures and algorithms with C++.
-
-- 💻 I've also gained valuable experience working with GUI frameworks like Tkinter and Kivy, building projects that showcase my abilities.
+- 👨‍💻 Passionate developer eager to explore the world of programming, particularly in the mobile development space. Skilled in Flutter development, and I'm actively expanding my knowledge towards native development using Kotlin and KMP.
 
 - 🚴‍♂️ In my free time, I enjoy cycling and traveling, seeking inspiration from the world around me. 
 
@@ -14,7 +10,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gaurav-Kushwaha-1225&icon=6&color=13)](https://visitcount.itsvg.in)
-
 
 # 💻 Tech Stack:
 - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
@@ -35,15 +30,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=Gaurav-Kushwaha-1225&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Kushwaha-1225&theme=material-palenight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Kushwaha-1225&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gaurav-Kushwaha-1225&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 -->
 
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+-->
 
 <!--
 ### 🔝 Top Contributed Repo
