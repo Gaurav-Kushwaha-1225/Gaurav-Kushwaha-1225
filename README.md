@@ -53,7 +53,7 @@
       <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
 </div>
 
-- ### Other Tools and Softwares 🧰
+- ### Other Tools and Software 🧰
   - <div align="left" style="vertical-align: middle;">
       <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"> 
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> 
@@ -65,12 +65,11 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Kushwaha-1225&theme=dracula&hide_title=false&hide_rank=false&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&disable_animations=false&locale=en&order=1" />
-  &nbsp; <b></b> &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Kushwaha-1225&theme=dracula&hide_border=false" />
   &nbsp; <b></b> &nbsp;
-  <div align="center">
+  <!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaurav-Kushwaha-1225&locale=en&hide_title=false&layout=compact&card_width=510&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
-  </div>
+  </div> -->
 </p>
 
 <!--
