@@ -63,13 +63,13 @@
 </div>
 
 ## 📊 GitHub Stats:
-<p align="center">
+<!-- <p align="center"> -->
   <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Kushwaha-1225&theme=dracula&hide_title=false&hide_rank=false&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&disable_animations=false&locale=en&order=1" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Kushwaha-1225&theme=dracula&hide_border=false" />
   <!-- &nbsp; <b></b> &nbsp; -->
   <!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaurav-Kushwaha-1225&locale=en&hide_title=false&layout=compact&card_width=510&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
   </div> -->
-</p>
+<!-- </p> -->
 
 <!--
 ## 🏆 GitHub Trophies
