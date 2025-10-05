@@ -1,7 +1,29 @@
-<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width=100% />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" /> -->
 
-# Hey there, :wave:
+<h1>
+  Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
+<div class="container">
+  <div style="display: flex; align-items: center; gap: 30px; padding: 20px;">
+    <!-- Text content takes more space -->
+    <div style="flex: 3; padding-right: 20px;">
+      <h2>Want to know more about my work?</h2>
+      <p> I'm <strong>Gaurav Kushwaha</strong>, a Bachelor's Student at <strong>IIT Mandi</strong>. 
+      </p>
+      <p> I have worked across several architectures in DL like <strong>Graph Neural Networks and UNet</strong>, where I achieved a top 15 performance in the NeurIPS Polymer Properties Prediction Competition, and developed a brain tumor segmentation pipeline with 0.76–0.88 Dice scores.
+        I've also contributed to open-source projects under <strong>CCExtractor</strong> (a GSoC organization) and won multiple hackathons.</p>
+      <p>From blockchain-based applications to mobile app development, my work expands across research with practical solutions.</p>
+      <p>
+        Check out my detailed resume to explore my projects in Deep Learning, Flutter development, and academic achievements.<br>
+        <a href="https://drive.google.com/drive/folders/18tTOEWJCFUd2jA2VqVGm_ctmusjELZwh?usp=drive_link" style="color: #007bff; text-decoration: none; font-weight: bold;">View My Complete Resume →</a>
+      </p>
+    </div>
+    <div style="flex: 1; text-align: center;">
+      <a href="https://drive.google.com/drive/folders/18tTOEWJCFUd2jA2VqVGm_ctmusjELZwh?usp=drive_link"></a>
+    </div>
+  </div>
+</div>
 
 ## 🌐 Socials:
 <!--
@@ -64,7 +86,17 @@
 
 ## 📊 GitHub Stats:
 <!-- <p align="center"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Kushwaha-1225&theme=dracula&hide_title=false&hide_rank=false&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&disable_animations=false&locale=en&order=1" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Kushwaha-1225&theme=dracula&hide_border=false" />
+<table  align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Kushwaha-1225&theme=dracula&hide_title=false&hide_rank=false&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&disable_animations=false&locale=en&order=1" align="center">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Kushwaha-1225&theme=dracula&hide_border=false" align="center">
+    </td>
+  </tr>
+</table>
+
   <!-- &nbsp; <b></b> &nbsp; -->
   <!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaurav-Kushwaha-1225&locale=en&hide_title=false&layout=compact&card_width=510&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
